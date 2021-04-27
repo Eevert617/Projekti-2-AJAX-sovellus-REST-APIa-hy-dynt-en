@@ -1,6 +1,12 @@
 Projekti 2: AJAX-sovellus REST APIa hyödyntäen
 
-https://jolly-brattain-b475ca.netlify.app
+Projecti kerää tietoa COVID19 API:n kautta ja näyttää tietoa sivulla.
 
-Projectissa käytin COVID19 API:a. 
+Käytettyjä asioita:
+AJAX
+JSON
+
+Linkki Netifyihin: https://jolly-brattain-b475ca.netlify.app
+
+Projectissa käytetty COVID19 API:a. 
 https://covid19api.com
